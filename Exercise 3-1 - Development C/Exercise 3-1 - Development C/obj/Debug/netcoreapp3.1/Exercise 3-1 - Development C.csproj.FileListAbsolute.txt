@@ -1,0 +1,13 @@
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.csprojAssemblyReference.cache
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.AssemblyInfoInputs.cache
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.AssemblyInfo.cs
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.csproj.CoreCompileInputs.cache
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\bin\Debug\netcoreapp3.1\Exercise 3-1 - Development C.exe
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\bin\Debug\netcoreapp3.1\Exercise 3-1 - Development C.deps.json
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\bin\Debug\netcoreapp3.1\Exercise 3-1 - Development C.runtimeconfig.json
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\bin\Debug\netcoreapp3.1\Exercise 3-1 - Development C.runtimeconfig.dev.json
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\bin\Debug\netcoreapp3.1\Exercise 3-1 - Development C.dll
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\bin\Debug\netcoreapp3.1\Exercise 3-1 - Development C.pdb
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.dll
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.pdb
+C:\Users\norberto.cabrera\Documents\Visual Studio Workspaces\Workspace\Exercise 3-1 - Development C\Exercise 3-1 - Development C\obj\Debug\netcoreapp3.1\Exercise 3-1 - Development C.genruntimeconfig.cache
