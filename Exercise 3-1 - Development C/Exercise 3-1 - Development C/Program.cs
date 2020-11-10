@@ -26,7 +26,7 @@ namespace Exercise_3_1___Development_C
                     switch (xmlReader.NodeType)
                     {
                         case XmlNodeType.Element:
-                            names.Add(xmlReader.Name);
+                            names.Add(xmlReader.Name.ToString());
                             break;
                         case XmlNodeType.Text:
                             values.Add(xmlReader.Value);
